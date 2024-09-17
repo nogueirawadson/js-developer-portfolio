@@ -48,12 +48,12 @@
   ],
   "portfolio": [
     {
-      "name": "Api Rest de Produtos (Java) - Dio",
+      "name": "Criando uma ApiRest de Produtos (Java) - Dio",
       "url": "https://github.com/RenanJPaula/js-developer-pokedex",
       "github": true
     },
     {
-      "name": "Pokedex (JavaScript) - Dio",
+      "name": "Criando uma Pokedex (JavaScript) - Dio",
       "url": "https://github.com/RenanJPaula/js-developer-portfolio",
       "github": true
     }
