@@ -49,12 +49,12 @@
   "portfolio": [
     {
       "name": "Criando uma ApiRest de Produtos (Java) - Dio",
-      "url": "https://github.com/nogueirawadson/restApi-dio.github",
+      "url": "https://github.com/nogueirawadson/restApi-dio",
       "github": true
     },
     {
       "name": "Criando uma Pokedex (JavaScript) - Dio",
-      "url": "https://github.com/nogueirawadson/pokedex.github",
+      "url": "https://github.com/nogueirawadson/pokedex",
       "github": true
     }
   ],
