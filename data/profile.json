@@ -48,12 +48,12 @@
   ],
   "portfolio": [
     {
-      "name": "Curso Ministrado na DIO para a criação de uma Pokedex",
+      "name": "Api Rest de Produtos (Java) - Dio",
       "url": "https://github.com/RenanJPaula/js-developer-pokedex",
       "github": true
     },
     {
-      "name": "Curso Ministrado na DIO para a criação de uma página de portfolio",
+      "name": "Pokedex (JavaScript) - Dio",
       "url": "https://github.com/RenanJPaula/js-developer-portfolio",
       "github": true
     }
